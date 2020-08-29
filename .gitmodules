@@ -1,0 +1,8 @@
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:Vauxoo/costarica.git
+	branch = 13.0
+[submodule "rroma"]
+	path = rroma
+	url = git@git.vauxoo.com:vauxoo/rroma.git
+	branch = 13.0

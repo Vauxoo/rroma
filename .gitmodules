@@ -6,3 +6,11 @@
 	path = rroma
 	url = git@git.vauxoo.com:vauxoo/rroma.git
 	branch = 13.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 13.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = git@github.com:Vauxoo/addons-vauxoo.git
+	branch = 13.0

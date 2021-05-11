@@ -18,3 +18,6 @@
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
 	branch = 13.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:vauxoo/sh-tools.git

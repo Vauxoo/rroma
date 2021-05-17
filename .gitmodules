@@ -17,6 +17,9 @@
 [submodule "edi-document"]
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
+[submodule "credit-management"]
+	path = credit-management
+	url = git@git.vauxoo.com:vauxoo/credit-management.git
 	branch = 13.0
 [submodule "sh-tools"]
 	path = sh-tools
